@@ -1,10 +1,10 @@
-#new to git
+# new to git
 hello git
 
 
 
-# include <iostream>
-using namespace std;
+   #include <iostream>
+ using namespace std;
 
 int main() {
     char op;
